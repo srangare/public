@@ -1,0 +1,19 @@
+[
+    {
+        "Type": "PrivatelyHostedGitConfig",
+        "Value": [
+            {
+                "GitServerDnsName": "bitbucket.cdphp.com",
+                "GitServerIpV4List": [
+                    "100.64.1.13"
+                ]
+            },
+            {
+                "GitServerDnsName": "bitbucket-qual.cdphp.com",
+                "GitServerIpV4List": [
+                    "100.64.1.17"
+                ]
+            }
+        ]
+    }
+]
